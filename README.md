@@ -1,2 +1,2 @@
-# Conversor_Criptomoedas
-Converte Reais para as principais criptomoedas - a interface é feia, mas tá funcionando lindamente
+JAVA - API
+Converte Reais para as principais criptomoedas
